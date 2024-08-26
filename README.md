@@ -13,5 +13,5 @@ To run the pipeline, please visit the `notebooks` directory and run the files in
 2. `tlc_preprocess.ipynb`: This notebook details all preprocessing steps for the TLC Data and outputs it to the `data/curated` directory.
 3. `mta_preprocess.ipynb`: This notebook details all preprocessing steps for the MTA Service Alert Data and outputs it to the `data/curated` directory.
 4. `weather_preprocess.ipynb`: This notebook details all preprocessing steps for the Weather Data and outputs it to the `data/curated` directory.
-5. `EDA.ipynb`: This notebook is used to conduct analysis and creare visualisations on the curated data.
+5. `eda.ipynb`: This notebook is used to conduct analysis and creare visualisations on the curated data.
 6. `model.ipynb`: The notebook is used to run and evaluate the model.
