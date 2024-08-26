@@ -18,8 +18,6 @@ def preprocess(hourly_data):
     df.loc[:,'DEW'] = (df['DEW'].apply(lambda x: int(x.split(',')[0])/10)
                                 .replace(999.9, np.nan))
     
-    df.loc[:,'SLP'] = (df['SLP'].apply(lambda x: int(x.split(',')[0])/10)
-                                .replace(9999.9, np.nan))
     
     # Impute missing data using data from an hour before
     df.ffill(inplace=True)
@@ -34,8 +32,7 @@ def preprocess(hourly_data):
     
     processed_data.rename({'WND':'wnd',
                            'TMP':'tmp',
-                           'DEW':'dew',
-                           'SLP':'atm'},
+                           'DEW':'dew'},
                            axis=1,
                            inplace=True)
 
@@ -44,7 +41,7 @@ def preprocess(hourly_data):
         'wnd': 'mean',   # Average wind speed
         'tmp': 'mean',   # Average temperature
         'dew': 'mean',   # Average dew point
-        'atm': 'mean'    # Average atmospheric pressure
+
     }).reset_index()
     
     return daily_weather_df[['date', 'wnd', 'tmp', 'dew', 'atm']]
