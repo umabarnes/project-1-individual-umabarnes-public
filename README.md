@@ -6,7 +6,7 @@
 
 **Research Goal:** My research goal is to predict hourly rideshare vehicle demand 
 
-**Timeline:** The timeline for the research area is 2018 - 2021.
+**Timeline:** The timeline for the research area is 2023/07/01 - 2023/12/31.
 
 To run the pipeline, please visit the `notebooks` directory and run the files in order:
 1. `download.ipynb`: This downloads the raw data into the `data/landing` directory.
