@@ -1,7 +1,7 @@
 # NYC Ride-Share Demand Analysis & Forecasting
 
 **Author:** Uma Barnes  
-**Contact:** [umacbarnes@gmail.com](mailto:umacbarnes@gmail.com) | 0427 097 021  
+**Email:** [umacbarnes@gmail.com](mailto:umacbarnes@gmail.com)
 **GitHub:** [github.com/umabarnes](https://github.com/umabarnes)  
 **LinkedIn:** [linkedin.com/in/uma-barnes](https://linkedin.com/in/uma-barnes)  
 
@@ -70,7 +70,7 @@ Datasets were aggregated and cleaned to create a comprehensive view of ride-shar
 For questions, collaborations, or feedback, please reach out via email or LinkedIn.
 
 
-**Uma Barnes**  
-Data Scientist
-[umacbarnes@gmail.com](mailto:umacbarnes@gmail.com) | 0427 097 021  
-[github.com/umabarnes](https://github.com/umabarnes) | [linkedin.com/in/uma-barnes](https://linkedin.com/in/uma-barnes)
+**Author:** Uma Barnes  
+**Email:** [umacbarnes@gmail.com](mailto:umacbarnes@gmail.com)
+**GitHub:** [github.com/umabarnes](https://github.com/umabarnes)  
+**LinkedIn:** [linkedin.com/in/uma-barnes](https://linkedin.com/in/uma-barnes)  
