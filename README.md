@@ -5,15 +5,12 @@
 **GitHub:** [github.com/umabarnes](https://github.com/umabarnes)  
 **LinkedIn:** [linkedin.com/in/uma-barnes](https://linkedin.com/in/uma-barnes)  
 
----
 
 ## Project Overview
 
 This project analyzes and models ride-share demand across New York City’s boroughs, focusing on understanding the influence of weather, public transport reliability, and spatial factors on hourly ride-share usage. Leveraging extensive open datasets, the work applies advanced machine learning techniques - specifically Random Forest Regression and Linear Regression - to forecast demand patterns and inform sustainable urban transportation strategies.
 
 The analysis aims to support decision-making around reducing traffic congestion and emissions by optimizing rideshare operations and enhancing public transport services. The insights align with broader goals of environmental sustainability and urban mobility efficiency, crucial areas for both public policy and business strategy.
-
----
 
 ## Motivation & Business Relevance
 
@@ -25,10 +22,6 @@ This project provides actionable insights for:
 - **Ride-share companies** aiming to improve driver routing and reduce unnecessary mileage.  
 - **Policy makers** focused on promoting sustainable transport and reducing urban pollution.  
 
-These insights resonate with Bain’s values around data-driven decision-making, operational efficiency, and impact-driven strategy.
-
----
-
 ## Data Sources
 
 - **New York City Taxi and Limousine Commission (TLC) Trip Records (2016+)**  
@@ -37,7 +30,6 @@ These insights resonate with Bain’s values around data-driven decision-making,
 
 Datasets were aggregated and cleaned to create a comprehensive view of ride-share demand influenced by external factors.
 
----
 
 ## Key Methods & Tools
 
@@ -48,7 +40,6 @@ Datasets were aggregated and cleaned to create a comprehensive view of ride-shar
   - Linear Regression for baseline comparison and interpretability  
 - **Visualization:** Matplotlib, Seaborn, and interactive maps to illustrate spatial and temporal demand patterns  
 
----
 
 ## Findings & Recommendations
 
@@ -58,7 +49,6 @@ Datasets were aggregated and cleaned to create a comprehensive view of ride-shar
 - Real-time demand forecasting can guide drivers to high-demand zones, reducing cruising time and emissions.  
 - Enhancing last-mile connectivity and public transit accessibility can reduce dependence on ride-share vehicles.  
 
----
 
 ## How to Use This Repository
 
@@ -67,7 +57,6 @@ Datasets were aggregated and cleaned to create a comprehensive view of ride-shar
 - **Visualization:** Code for generating spatial and temporal demand maps and charts.  
 - **Report:** Comprehensive project report in LaTeX summarizing methodology, analysis, and strategic recommendations.  
 
----
 
 ## Future Work
 
@@ -75,13 +64,11 @@ Datasets were aggregated and cleaned to create a comprehensive view of ride-shar
 - Extend the model to predict demand during special events and holidays.  
 - Explore deep learning methods for improved predictive accuracy.  
 
----
 
 ## Contact
 
 For questions, collaborations, or feedback, please reach out via email or LinkedIn.
 
----
 
 **Uma Barnes**  
 Data Scientist
